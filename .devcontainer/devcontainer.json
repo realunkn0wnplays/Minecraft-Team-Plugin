@@ -1,0 +1,17 @@
+{
+  "name": "TeamsPlugin Devcontainer",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "forwardPorts": [25565, 5005],
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "vscjava.vscode-java-pack",
+    "vscjava.vscode-maven",
+    "richardwillis.vscode-gradle"
+  ],
+  "postCreateCommand": "mvn -q -DskipTests package || true",
+  "remoteUser": "vscode"
+}
