@@ -1,0 +1,6 @@
+com/example/teamplugin/TeamManager.class
+com/example/teamplugin/TeamsPlugin.class
+com/example/teamplugin/commands/TeamCommand.class
+com/example/teamplugin/util/EncryptionUtil.class
+com/example/teamplugin/Team.class
+com/example/teamplugin/listeners/PlayerListener.class

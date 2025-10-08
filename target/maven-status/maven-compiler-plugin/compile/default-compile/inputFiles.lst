@@ -1,0 +1,6 @@
+/workspaces/Minecraft-Team-Plugin/src/main/java/com/example/teamplugin/Team.java
+/workspaces/Minecraft-Team-Plugin/src/main/java/com/example/teamplugin/TeamManager.java
+/workspaces/Minecraft-Team-Plugin/src/main/java/com/example/teamplugin/TeamsPlugin.java
+/workspaces/Minecraft-Team-Plugin/src/main/java/com/example/teamplugin/commands/TeamCommand.java
+/workspaces/Minecraft-Team-Plugin/src/main/java/com/example/teamplugin/listeners/PlayerListener.java
+/workspaces/Minecraft-Team-Plugin/src/main/java/com/example/teamplugin/utils/EncryptionUtil.java
